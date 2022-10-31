@@ -1,0 +1,5 @@
+./datasets/League-of-Legends-Champion-Stats-12.2.csv
+./datasets/HR-Employee-Attrition.csv
+./datasets/credit_scoring_data_train.csv
+./datasets/Iris.csv
+./datasets/heart.csv

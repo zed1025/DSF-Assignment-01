@@ -1,0 +1,6 @@
+1. https://www.kaggle.com/datasets/vivovinco/league-of-legends-champion-stats
+2. https://www.kaggle.com/datasets/islombekdavronov/creditscoring-data
+3. https://www.kaggle.com/datasets/uciml/iris
+4. https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
+5. https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+6. https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
