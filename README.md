@@ -1,4 +1,10 @@
 # DSF-Assignment-01
+- Name: Amit Kumar
+- Roll No: 22CSM1R02
+- MTech Sem 01
+- Subject: DSF
+- Assinment Description
+
 Applying 5 Classification-Algorithms on 5 Datasets using k-fold-cross-validation(**k=5**) and comparing results of 5 Metrics
 
 ## Algorithms Used
